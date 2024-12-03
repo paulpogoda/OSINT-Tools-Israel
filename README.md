@@ -14,7 +14,6 @@ A list of websites which have proved useful during OSINT investigations in Israe
  - [WHOIS](#whois)
 
 ## Open Data portals
-(Country Open Data, Stock Exchange, Courts)
 - [Govt. Open Datasets](https://data.gov.il/dataset) - Lots of open datasets. Hebrew only
 
 - [Open Budget](https://next.obudget.org/) - friendly presentation of the national budget. Hebrew only.
@@ -55,6 +54,7 @@ A list of websites which have proved useful during OSINT investigations in Israe
 ## Public procurement
 - [Israel on Global Tenders](https://www.globaltenders.com/israel-tenders)
 - [Israel on Tenders on Time](https://www.tendersontime.com/israel-tenders/)
+- [Social CSE by Pogoda](https://cse.google.com/cse?cx=029ffbc44aa3946cb#gsc.tab=0)
 
 ## WHOIS
 - [Whois](https://en.isoc.org.il/whois) - WHOIS for .il domains includes the contact persons' details
