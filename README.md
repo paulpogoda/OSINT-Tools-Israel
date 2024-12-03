@@ -30,6 +30,7 @@ A list of websites which have proved useful during OSINT investigations in Israe
 - [Non-Profits](https://www.guidestar.org.il/home) - Basic data about non-profits, including annual financials. Efforts were made to wipe PII (e.g. large donors). Hebrew only
 - [Tax Deductions](https://taxinfo.taxes.gov.il/gmishurim/firstPage.aspx) - Check a business owner's name, address, SOC code by National ID number. Only works if they registered as a business owner. For married women this shows their spouse's ID number. Hebrew only.
 - [Tax Authority (VAT)](https://taxinfo.taxes.gov.il/emosek/wHzanatTik.aspx) - Check if an individual is a registered entity for VAT purposes. Returns up to date address. Hebrew only.
+- [KYC Israel](https://www.kycisrael.com/companies/). KYC Israel is a firm that can provide custom background reports, KYC (Know your customer) reports, legal research and more on any Israeli business or individual.
 
 ## Maps
 - [Tabu (Land Registry Extract)](https://www.gov.il/en/service/land_registration_extract) - only searchable by plot/parcel number, which means you may need to [convert an address to plot/parcel](https://www.gov.il/apps/mapi/parcel_address/parcel_address.html) (Hebrew only). Land registry extract requires payment. Provides the names and national ID of the owners of buildings/parcels, as well as information about liens.
@@ -52,6 +53,8 @@ A list of websites which have proved useful during OSINT investigations in Israe
 - [Doctors Registry](https://practitioners.health.gov.il/Practitioners/1/search) - Doctors registry. Search by name, license number, specialty. Hebrew only
 
 ## Public procurement
+- [Israel on Global Tenders](https://www.globaltenders.com/israel-tenders)
+- [Israel on Tenders on Time](https://www.tendersontime.com/israel-tenders/)
 
 ## WHOIS
 - [Whois](https://en.isoc.org.il/whois) - WHOIS for .il domains includes the contact persons' details
