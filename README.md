@@ -50,6 +50,8 @@ A list of websites which have proved useful during OSINT investigations in Israe
 ## People 
 - [Tagged Animal Registry](https://dogsearch.moag.gov.il/#/pages/pets) - Searchable by pet/owner name. Reveals pet name, vaccination history, owner name, address, phone number.
 - [Doctors Registry](https://practitioners.health.gov.il/Practitioners/1/search) - Doctors registry. Search by name, license number, specialty. Hebrew only
+- [Social Search CSE by Pogoda](https://cse.google.com/cse?cx=029ffbc44aa3946cb#gsc.tab=0). 
+- See also updated [OSINT CSE List on GitHub](https://github.com/paulpogoda/OSINT-CSE)
 
 ## Public procurement
 - [Israel on Global Tenders](https://www.globaltenders.com/israel-tenders)
