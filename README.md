@@ -4,7 +4,7 @@ A list of websites which have proved useful during OSINT investigations in Israe
 
 *Forked from [@ranlo's OTIsrael](https://github.com/ranlo/OSINT-Tools-Israel), rearranged for [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0) Project. Feel free to join!*
 
-## Table of content:
+## Table of contents:
  - [Open Data portals](#open-data-portals)
  - [Legal Entities](#legal-entities)
  - [Cadastral and other Maps](#maps)
