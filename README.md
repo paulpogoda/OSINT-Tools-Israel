@@ -34,6 +34,7 @@ A list of websites which have proved useful during OSINT investigations in Israe
 ## Maps
 - [Tabu (Land Registry Extract)](https://www.gov.il/en/service/land_registration_extract) - only searchable by plot/parcel number, which means you may need to [convert an address to plot/parcel](https://www.gov.il/apps/mapi/parcel_address/parcel_address.html) (Hebrew only). Land registry extract requires payment. Provides the names and national ID of the owners of buildings/parcels, as well as information about liens.
 - [Simplex3D](https://simplex3d.co.il/?en) - Hi-res satellite photos; 3D imagery of buildings
+- [Israel-Gaza Conflict Map](https://www.info-res.org/israel-gaza-war/maps/israel-gaza-conflict-map/) - The Israel-Gaza Conflict Map is a map of incidents documented by CIR covering the Occupied Palestinian Territories (the Gaza Strip, the West Bank, and East Jerusalem), Israel, and Lebanon since 7 October 2023. Incidents have been visually verified using videos and photos uploaded from the ground, as well as satellite imagery, to identify when the incident happened (date) and where it happened (location). Each piece of data has been analised for authenticity by CIR Investigators.
 
 ## Vehicles
 - [Lien registry](https://www.gov.il/he/service/pawn_perusal) - useful for mapping vehicles to their owners (if the vehicle was purchased using a loan, creating a lien). Requires payment. Hebrew only.
