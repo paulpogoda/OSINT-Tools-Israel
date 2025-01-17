@@ -62,4 +62,4 @@ A list of websites which have proved useful during OSINT investigations in Israe
 - [Whois](https://en.isoc.org.il/whois) - WHOIS for .il domains includes the contact persons' details
 
 ## Contributions
-Fell free to join to this project — [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
+Feel free to join this project — [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
